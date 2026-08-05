@@ -16,5 +16,3 @@ elif a <= 17 and a >= 10:
     print("you are allowed") 
 else:
     print("you are a baby")
-
-
