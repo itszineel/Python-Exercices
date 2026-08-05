@@ -17,3 +17,4 @@ elif a <= 17 and a >= 10:
 else:
     print("you are a baby")
 
+
